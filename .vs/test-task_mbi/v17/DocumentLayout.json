@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\deeksha_hardaha\\source\\repos\\test-task\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{54F0351B-4AFA-4CC8-AB02-7856E825B408}|test-task_mbi.vcxproj|C:\\Users\\deeksha_hardaha\\source\\repos\\test-task\\abstract.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{54F0351B-4AFA-4CC8-AB02-7856E825B408}|test-task_mbi.vcxproj|solutionrelative:abstract.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54F0351B-4AFA-4CC8-AB02-7856E825B408}|test-task_mbi.vcxproj|C:\\Users\\deeksha_hardaha\\source\\repos\\test-task\\list.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{54F0351B-4AFA-4CC8-AB02-7856E825B408}|test-task_mbi.vcxproj|solutionrelative:list.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54F0351B-4AFA-4CC8-AB02-7856E825B408}|test-task_mbi.vcxproj|C:\\Users\\deeksha_hardaha\\source\\repos\\test-task\\Test_task.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{54F0351B-4AFA-4CC8-AB02-7856E825B408}|test-task_mbi.vcxproj|solutionrelative:Test_task.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "abstract.hpp",
+              "DocumentMoniker": "C:\\Users\\deeksha_hardaha\\source\\repos\\test-task\\abstract.hpp",
+              "RelativeDocumentMoniker": "abstract.hpp",
+              "ToolTip": "C:\\Users\\deeksha_hardaha\\source\\repos\\test-task\\abstract.hpp",
+              "RelativeToolTip": "abstract.hpp",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-02-03T13:10:42.326Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Test_task.cpp",
+              "DocumentMoniker": "C:\\Users\\deeksha_hardaha\\source\\repos\\test-task\\Test_task.cpp",
+              "RelativeDocumentMoniker": "Test_task.cpp",
+              "ToolTip": "C:\\Users\\deeksha_hardaha\\source\\repos\\test-task\\Test_task.cpp",
+              "RelativeToolTip": "Test_task.cpp",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAB4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-03T13:09:32.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "list.hpp",
+              "DocumentMoniker": "C:\\Users\\deeksha_hardaha\\source\\repos\\test-task\\list.hpp",
+              "RelativeDocumentMoniker": "list.hpp",
+              "ToolTip": "C:\\Users\\deeksha_hardaha\\source\\repos\\test-task\\list.hpp",
+              "RelativeToolTip": "list.hpp",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAABoAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-02-03T13:07:14.636Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
