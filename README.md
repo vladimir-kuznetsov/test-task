@@ -1,2 +1,7 @@
 # test-task
-The list.hpp file contains the implementation of a linked list. It is necessary to find and fix errors in this implementation, create a simple application using this list and cover the code with unit tests.
+
+Updated test-task PR contains the code of List implementation in c++17.
+
+->Used smart pointers instead of row pointers.
+->Used exception handeling to take care of all edge cases and exceptions.
+->Use of smart pointers ensures that the RAII is implemented.
